@@ -10,3 +10,5 @@ Com ele é possivel:
 As informação especificadas pelos administradores serão apresentadas nas paginas para qualquer visitante obter as informações sobre o centro em questão.
 
 OBS: O projeto ainda está em desenvolvimento, assim as novas funções estiverem prontas serão atualizadas!
+
+![Captura de Ecrã (11)](https://user-images.githubusercontent.com/88463703/183387151-06947fc5-5167-42ab-9e34-62ea16e36aee.png)
